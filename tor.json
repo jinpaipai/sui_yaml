@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "onion",
+        "pincong.rocks",
+        "falundafa.org",
+        "epochtimes.com",
+        "minghui.org",
+        "learnfalungong.com",
+        "soundofhope.org",
+        "chinauncensored.tv",
+        "secretchina.com",
+        "renminbao.com",
+        "ntdtv.com",
+        "broadpressinc.com",
+        "hakudai.jp",
+        "minghuischool.us"
+      ],
+      "domain_keyword": [],
+      "domain_suffix": [],
+      "ip_cidr": []
+    },
+    {
+      "process_name": []
+    }
+  ],
+  "version": 2
+}
