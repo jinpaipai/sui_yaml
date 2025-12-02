@@ -30,37 +30,10 @@
         "hoyoverse.com",
         "deepseek.com",
         "globalsign.com"
-      ]
-    },
-    {
-      "ruleset": "Google"
-    },
-    {
-      "ruleset": "Apple"
-    },
-    {
-      "ruleset": "Microsoft"
-    },
-    {
-      "ruleset": "AMD"
-    },
-    {
-      "ruleset": "WPS"
-    },
-    {
-      "ruleset": "TapTap"
-    },
-    {
-      "ruleset": "Bilibili"
-    },
-    {
-      "ruleset": "AI-cn"
-    },
-    {
-      "ruleset": "Games_notcn"
-    },
-    {
-      "ruleset": "Netease"
+      ],
+      "domain_suffix": [],
+      "domain_keyword": [],
+      "ip_cidr": [],
     }
   ],
   "version": 2
