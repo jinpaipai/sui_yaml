@@ -1,0 +1,67 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cdn.ampproject.org",
+        "hok-dr.intlgame.com",
+        "ssl.msdk.qq.com",
+        "hok-lbs.intlgame.com",
+        "android.crashsight.wetest.net",
+        "dlied5.qq.com",
+        "intlgame.com",
+        "tencent-cloud.com",
+        "tencent-cloud.net",
+        "myqcloud.com",
+        "cloud.tencent.com",
+        "qpic.cn",
+        "wetest.net",
+        "neteasegames.com",
+        "neteasegslb.com",
+        "aliapp.com",
+        "taobaocdn.com",
+        "tbcache.com",
+        "aliexpress.com",
+        "bcebos.com",
+        "sgameglobal.com.acc.edgeonedy1.com",
+        "alibabacloud.com",
+        "g-client-prod.cloud-control.smoba.qq.com",
+        "jdglobal.com",
+        "jd.hk",
+        "hoyoverse.com",
+        "deepseek.com",
+        "globalsign.com"
+      ]
+    },
+    {
+      "ruleset": "Google"
+    },
+    {
+      "ruleset": "Apple"
+    },
+    {
+      "ruleset": "Microsoft"
+    },
+    {
+      "ruleset": "AMD"
+    },
+    {
+      "ruleset": "WPS"
+    },
+    {
+      "ruleset": "TapTap"
+    },
+    {
+      "ruleset": "Bilibili"
+    },
+    {
+      "ruleset": "AI-cn"
+    },
+    {
+      "ruleset": "Games_notcn"
+    },
+    {
+      "ruleset": "Netease"
+    }
+  ],
+  "version": 2
+}
