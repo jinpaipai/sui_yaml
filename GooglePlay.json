@@ -1,1 +1,12 @@
-
+{
+  "rules": [
+    {
+      "domain": [],
+      "domain_keyword": [],
+      "domain_suffix": [xn--ngstr-lra8j.com
+      ],
+      "ip_cidr": []
+    }
+  ],
+  "version": 2
+}
