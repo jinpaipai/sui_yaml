@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "imap.gmail.com",
+        "smtp.gmail.com",
+        "outlook.office365.com",
+        "smtp.office365.com",
+        "imap-mail.outlook.com",
+        "smtp-mail.outlook.com",
+        "imap.mail.yahoo.com",
+        "smtp.mail.yahoo.com",
+        "imap.mail.ru",
+        "pop.mail.ru",
+        "imap.zoho.com",
+        "smtp.zoho.com",
+        "imap.mail.me.com",
+        "smtp.mail.me.com"
+      ],
+      "domain_keyword": [],
+      "domain_suffix": [],
+      "ip_cidr": []
+    }
+  ],
+  "version": 2
+}
