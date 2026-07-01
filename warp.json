@@ -4,7 +4,9 @@
       "domain": [
         "fe-static.deepseek.com"
       ],
-      "domain_suffix": [],
+      "domain_suffix": [
+        "deepseek.com"
+      ],
       "domain_keyword": [],
       "ip_cidr": []
     }
