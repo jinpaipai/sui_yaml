@@ -15,7 +15,8 @@
         "imap.zoho.com",
         "smtp.zoho.com",
         "imap.mail.me.com",
-        "smtp.mail.me.com"
+        "smtp.mail.me.com",
+        "mail.oqumail.com"
       ],
       "domain_keyword": [],
       "domain_suffix": [],
