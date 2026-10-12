@@ -1,21 +1,139 @@
+
 {
   "rules": [
     {
       "domain": [
         "imap.gmail.com",
         "smtp.gmail.com",
+        "pop.gmail.com",
+        "imap.googlemail.com",
+        "smtp.googlemail.com",
+        "pop.googlemail.com",
+
         "outlook.office365.com",
         "smtp.office365.com",
+        "pop.office365.com",
         "imap-mail.outlook.com",
         "smtp-mail.outlook.com",
+        "pop-mail.outlook.com",
+        "imap.hotmail.com",
+        "smtp.live.com",
+
         "imap.mail.yahoo.com",
         "smtp.mail.yahoo.com",
-        "imap.mail.ru",
-        "pop.mail.ru",
-        "imap.zoho.com",
-        "smtp.zoho.com",
+        "pop.mail.yahoo.com",
+
+        "imap.aol.com",
+        "smtp.aol.com",
+        "pop.aol.com",
+
         "imap.mail.me.com",
         "smtp.mail.me.com",
+        "pop.mail.me.com",
+
+        "imap.qq.com",
+        "smtp.qq.com",
+        "pop.qq.com",
+        "imap.exmail.qq.com",
+        "smtp.exmail.qq.com",
+        "pop.exmail.qq.com",
+
+        "imap.163.com",
+        "smtp.163.com",
+        "pop.163.com",
+        "imap.126.com",
+        "smtp.126.com",
+        "pop.126.com",
+        "imap.yeah.net",
+        "smtp.yeah.net",
+        "pop.yeah.net",
+
+        "imap.sina.com",
+        "smtp.sina.com",
+        "pop.sina.com",
+        "imap.sina.cn",
+        "smtp.sina.cn",
+        "pop.sina.cn",
+
+        "imap.sohu.com",
+        "smtp.sohu.com",
+        "pop.sohu.com",
+
+        "imap.aliyun.com",
+        "smtp.aliyun.com",
+        "pop.aliyun.com",
+
+        "imap.139.com",
+        "smtp.139.com",
+        "pop.139.com",
+        "imap.189.cn",
+        "smtp.189.cn",
+        "pop.189.cn",
+        "imap.wo.cn",
+        "smtp.wo.cn",
+        "pop.wo.cn",
+
+        "imap.mail.ru",
+        "smtp.mail.ru",
+        "pop.mail.ru",
+
+        "imap.yandex.com",
+        "smtp.yandex.com",
+        "pop.yandex.com",
+        "imap.yandex.ru",
+        "smtp.yandex.ru",
+        "pop.yandex.ru",
+
+        "imap.zoho.com",
+        "smtp.zoho.com",
+        "pop.zoho.com",
+        "imappro.zoho.com",
+        "smtppro.zoho.com",
+        "imap.zoho.eu",
+        "smtp.zoho.eu",
+
+        "imap.fastmail.com",
+        "smtp.fastmail.com",
+        "pop.fastmail.com",
+
+        "imap.gmx.com",
+        "mail.gmx.com",
+        "pop.gmx.com",
+        "imap.gmx.net",
+        "mail.gmx.net",
+        "pop.gmx.net",
+
+        "imap.mail.com",
+        "smtp.mail.com",
+        "pop.mail.com",
+
+        "imap.mailbox.org",
+        "smtp.mailbox.org",
+        "pop.mailbox.org",
+
+        "imap.posteo.de",
+        "smtp.posteo.de",
+        "pop.posteo.de",
+
+        "mail.protonmail.ch",
+        "mail.proton.me",
+        "api.protonmail.ch",
+        "api.proton.me",
+
+        "mail.tutanota.com",
+        "app.tuta.com",
+
+        "imap.runbox.com",
+        "smtp.runbox.com",
+        "pop.runbox.com",
+
+        "imap.mailfence.com",
+        "smtp.mailfence.com",
+
+        "imap.ionos.com",
+        "smtp.ionos.com",
+        "pop.ionos.com",
+
         "mail.oqumail.com"
       ],
       "domain_keyword": [],
